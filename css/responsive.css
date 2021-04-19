@@ -1,0 +1,341 @@
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+ 
+ .col-md-6 {
+    width: 78%;
+
+}
+
+.banner_text h1 {
+    padding: 38px 0;
+    margin-left: 39px;
+}
+.app {
+
+    margin-left: 39px;
+  }
+
+  .banner_text p {
+    margin-left: 39px;
+}
+
+.banner .btn2 {
+    padding: 11px 32px;
+    margin-left: 39px;
+    margin-top: 76px;
+}
+.feature_middle p {
+    font-size: 20px;
+}
+.col-md-5 {
+    width: 49.666667%;
+}
+.mdlhead3 p {
+    padding: 10px 13px;
+}
+.mdlhead2 p {
+    padding: 10px 13px;
+}
+.mdlhead1 p {
+    padding: 10px 13px;
+}
+.Description {
+    margin: 70px 0;
+}
+
+.dsgn_dsc h2 {
+    width: 100%;
+    margin-top: 50px;
+    margin-left: 106px;
+}
+
+.dsgn_dsc p {
+    margin-left: 106px;
+    font-size: 20px;
+    width: 100%;
+}
+.dsgn_dsc .btn {
+    margin-left: 186px;
+}
+.content h2 {
+    width: 100%;
+    margin-left: 71px;
+}
+
+.content h2 {
+    font-size: 33px;
+    margin-left: 88px;
+    
+}
+
+.content p {
+   margin-left: 90px;
+    font-size: 20px;
+    width: 100%;
+}
+.ult {
+    text-align: center;
+    width: 100%;
+}
+.ult h2 {
+    width: 100%;
+}
+.ult p {
+    width: 100%;
+    font-size: 20px;
+    padding: 20px 0;
+}
+
+col-md-6 {
+    width: 100%;
+}
+img, svg {
+    width: 23%;
+    margin-left: 285px;
+}
+
+.planning h5 {
+    margin-left: 280px;
+}
+
+.planning p {
+    width: 100%;
+    text-align: center;
+    margin-left: 115px;
+    font-size: 20px;
+}
+.btn {
+    margin-top: 16px;
+    margin-left: 280px;
+}
+.frequent h2 {
+    font-size: 33px;
+    text-align: center;
+    width: 100%;
+    margin-left: 90px;
+}
+.frequent p {
+    margin-left: 89px;
+    font-size: 20px;
+    width: 100%;
+}
+
+.trigger {
+    margin-left: 50px;
+}
+.card {
+    margin: 50px 0px 50px 100px;
+}
+.review h1 {
+    font-size: 33px;
+    width: 100%;
+    margin-left: 137px;
+    margin-top: 60px;
+}
+.Pricing {
+    width: 100%;
+    padding: 42px 0 0px 0;
+    text-align: center;
+}
+.review p {
+    font-size: 20px;
+    width: 100%;
+    text-align: center;
+    margin-left: 97px;
+}
+.review h5 {
+    margin: 20px 0 10px 211px;
+    font-size: 22px;
+}
+.test{
+  margin-left: 20px;
+}
+.frequent p {
+    margin-left: 47px;
+    font-size: 22px;
+    width: 100%;
+}
+.frequent2 {
+    margin-left: 55px;
+}
+.frequent2 p {
+    font-size: 20px;
+    width: 100%;
+}
+.Download h2 {
+    width: 100%;
+    margin-top: 10px;
+    font-size: 26px;
+    text-align: center;
+    margin-left: 182px;
+}
+.Download p {
+    font-size: 20px;
+    width: 100%;
+    text-align: center;
+    margin-left: 173px;
+}
+
+.Download .btn3 img {
+    width: 130px;
+    margin-left: 23px;
+    margin-right: 10px;
+}
+.Feature{
+  display: none;
+}
+html,body{
+    overflow-x: hidden;
+}
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 560px) {
+  
+  /* CSS */
+
+html,body{
+    overflow-x: hidden;
+}
+
+.app {
+    width: 85%;
+    margin-top: 16px;
+    margin-left: 19px;
+}
+
+.banner_text h1 {
+    margin-left: 23px;
+    margin-top: 34px;
+}
+ .banner_text p {
+    padding: 25px 0;
+    margin-left: 17px;
+    font-size: 13px;
+}
+.banner .btn2 {
+    margin-left: 16px;
+    margin-right: 4px;
+    margin-top: 70px;
+}
+.feature_middle h2 {
+    width: 100%;
+}
+.feature_middle p {
+    padding: 15px 10px;
+    font-size: 16px;
+}
+.fastP_img {
+    padding: 1px 0 0 44px;
+    text-align: center;
+    margin-left: -28px;
+}
+.mdlhead1 h5 {
+     text-align: center;
+}
+.mdlhead2 h5 {
+    text-align: center;
+}
+.mdlhead3 h5 {
+   text-align: center;
+   }
+ .Description{
+  margin: 0px;
+}
+
+.badge1 p {
+    width: 100%;
+}
+.badge2 p {
+    width: 100%;
+}
+
+.badge3 p {
+    width: 100%;
+}
+.dsgn_dsc h2 {
+    width: 100%;
+   
+}
+.img_div{
+  display: none;
+ }
+.Design{
+  margin:0;
+}
+.dsgn_dsc h2 {
+    width: 100%;
+    margin-top: 20px;
+    
+}
+.dsgn_dsc p {
+    margin-left: 12px;
+}
+.dsgn_dsc .btn {
+    margin-left: 81px;
+}
+.content h2 {
+    font-size: 28px;
+}
+.content p {
+    font-size: 12px;
+}
+.ult h2 {
+    width: 100%;
+    font-size: 20px;
+}
+.ult p {
+    width: 100%;
+    font-size: 15px;
+}
+.btn {
+    margin-left: 107px;
+}
+.frequent p {
+    padding-bottom: 0px;
+    font-size: 15px;
+    width: 90%;
+}
+.trigger {
+    margin-left: -18px;
+}
+.review{
+  margin-top: 0px;
+}
+.review h1 {
+    font-size: 25px;
+    margin-top: -35px;
+}
+.review p {
+    width: 94%;
+}
+.frequently{
+  margin-top: 40px;
+}
+.frequent h2 {
+    font-size: 22px;
+    margin-right: 13px;
+}
+.frequent p {
+    width: 97%;
+}
+.Download{
+  margin-top: 30px;
+}
+.footer p {
+    text-align: center;
+    color: #fff;
+    font-size: 9px;
+}
+}
